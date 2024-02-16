@@ -1,4 +1,4 @@
-# <center>🧸 **알고리즘 스터디** 🧸</center>
+# <center> 🧸 **알고리즘 스터디** 🧸 </center>
 
 <br>
 
