@@ -12,4 +12,4 @@ def dfs(v):
         if visited[nx] == 0:
             dfs(nx)
 dfs(1)
-print(sum(visited)-1)
+print(sum(visited)-1)ls
